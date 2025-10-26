@@ -1,0 +1,19 @@
+
+#python
+
+__pycache__/
+*.pyc
+
+
+
+# data
+
+*.csv
+*.tsv
+*.tsv.gz
+*.zip
+
+
+
+.DS_Store
+Thumbs.db
